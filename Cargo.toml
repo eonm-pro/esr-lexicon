@@ -11,7 +11,7 @@ reqwest = { version = "0.10.8", features = ["json"] }
 tokio = { version = "0.2.21", features = ["full"] }
 serde = { version = "1.0.112", features = ["derive"] }
 serde_json = "1.0.60"
-env_logger = "0.8.2"
+env_logger = "0.8.4"
 log = "0.4.8"
 jq-rs = { version = "0.4.1", features = ["bundled"] }
 clap = "2.33.3"
